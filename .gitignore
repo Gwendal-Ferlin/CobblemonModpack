@@ -6,7 +6,6 @@ screenshots/
 resourcepacks/
 shaderpacks/
 
-
 # === Fichiers utilisateur ===
 options.txt
 optionsof.txt
@@ -48,8 +47,13 @@ Temp Test/
 *.tmp
 *.temp
 
-# === Mods (jars) - exclus car lourds ; manifest.json + minecraftinstance.json suffisent pour réinstaller ===
+# === Mods (jars) - souvent exclus car lourds ; le manifest.json suffit pour réinstaller ===
+# Décommenter la ligne suivante pour ne pas pousser les .jar (recommandé pour GitHub)
+# mods/*.jar
+
 mods/Abes-Hutts-Cobblemon-1.21.1-1.7.1-1.0.2.jar
+mods/Abes-Hutts-Cobblemon-1.21.1-1.7.1-1.0.2.jar.disabled
+
 
 # === Système ===
 .DS_Store
