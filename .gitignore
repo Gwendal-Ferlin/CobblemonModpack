@@ -1,0 +1,58 @@
+# === Données joueur / monde ===
+saves/
+journeymap/
+waypoints/
+screenshots/
+resourcepacks/
+shaderpacks/
+datapacks/
+
+# === Fichiers utilisateur ===
+options.txt
+optionsof.txt
+usercache.json
+knownkeys.txt
+servers.dat
+servers.dat_old
+command_history.txt
+imgui.ini
+
+# === Logs et crashs ===
+logs/
+crash-reports/
+debug/
+
+# === Cache et build ===
+cache/
+.fabric/
+.mixin.out/
+.bobby/
+polymer/
+downloads/
+
+# === Config / données générées par les mods (optionnel : retirer si vous versionnez la config) ===
+# Décommenter les lignes ci-dessous pour versionner config, cobblemon, etc.
+# config/
+cobblemon/
+cobblenav/
+fancymenu_data/
+emojiful/
+emotes/
+emi.json
+
+# === CurseForge client ===
+.curseclient
+
+# === Dossiers de test / temporaires ===
+Temp Test/
+*.tmp
+*.temp
+
+# === Mods (jars) - exclus car lourds ; manifest.json + minecraftinstance.json suffisent pour réinstaller ===
+mods/*.jar
+mods/*.jar.disabled
+
+# === Système ===
+.DS_Store
+Thumbs.db
+*.log
