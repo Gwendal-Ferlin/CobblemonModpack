@@ -178,7 +178,7 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
 
 ### 🔗 Liens utiles
 
-[Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/)
+[Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/)</br>
 [Modpack Curseforge](https://www.curseforge.com/minecraft/modpacks/cobblemon-academy-2-0)
 
 ---
