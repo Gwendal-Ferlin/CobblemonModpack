@@ -13,6 +13,8 @@ Les versions suivent le format : `vX.Y.Z`
 
 ---
 
+---
+
 ## [v1.0.0] - 03-02-2026
 
 ### 📋 Résumé
@@ -48,7 +50,7 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
 
 ### ✨ Modifications
 
-#### Mods (dans le dossier /mods)
+#### Mods (/mods)
 
 - `Abes-Hutts-Cobblemon` - Version 1.7.1-1.0.2
   - Modification : <span style="color:red">Supprimer l'ancienne version (a faire meme si le dossier mod est récupérer)</span>
@@ -112,7 +114,7 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
   
 
 
-#### Datapacks (/datapacks que coté serveur, pas necessaire coté ordi)
+#### Datapacks (/datapacks, coté serveur)
 
 - `Academy`
   - Modification : <span style="color:lightyellow">Modification du code</span>
@@ -155,7 +157,7 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
   - Emplacement : `datapacks/CobblemonRaidDenDesigns-0.3_RELEASE/`
 
 
-#### Configurations
+#### Configurations (/config, coté serveur)
 
 - `Eternal Starlight` (fichier de configuration)
   - Mod concerné : Eternal Starlight
