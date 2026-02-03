@@ -42,7 +42,7 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
   - 30 Ultra-Chimères et Pokémon Paradoxe (TIER_FIVE à TIER_SEVEN)
   - Formes Dynamax/Gigantamax (TIER_SEVEN)
   - Mécanique Tera
-- **5 arènes thématiques** : Fire, Water, Grass, Fighting, Ice Arena
+- **5 arènes thématiques** : <span style="color:#e25822">Feu</span>, <span style="color:#2196f3">Eau</span>, <span style="color:#2ecc40">Plante</span>, <span style="color:#c62828">Combat</span>, <span style="color:#00e5ff">Glace</span>
 
 ### 🛠️ Préparation
 
@@ -178,8 +178,8 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
 
 ### 🔗 Liens utiles
 
-    - [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/)
-    - [Modpack Curseforge](https://www.curseforge.com/minecraft/modpacks/cobblemon-academy-2-0)
+[Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/)
+[Modpack Curseforge](https://www.curseforge.com/minecraft/modpacks/cobblemon-academy-2-0)
 
 ---
 
