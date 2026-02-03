@@ -1,4 +1,4 @@
 adminChat:0
-maxChatHistory:100
-compactChat:1
 announceAdvancements:true
+compactChat:1
+maxChatHistory:100

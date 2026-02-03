@@ -14,7 +14,7 @@ Les versions suivent le format : `vX.Y.Z`
 ---
 ---
 
-## [v1.1.0] - 03-02-2026
+## [v1.1.1] - 03-02-2026
 
 ### 📋 Résumé
 
@@ -28,10 +28,10 @@ Ajout d'une queue à distance pour les raids et correction du mod Zamega.
 
 #### Mods (/mods)
 
-- `raid-den-queue` - Version 1.0.0
+- `CRD Broadcasts` - Version 1.3+
   - Modification : <span style="color:lightgreen">Ajout dans le dossier</span>
   - Description : Ajoute une queue à distance pour les raids (évite les déplacements)
-  - Lien : [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/blob/main/mods/raid-den-queue-1.0.0.jar)
+  - Lien : [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/blob/main/mods/crd_broadcasts-fabric-1.3.0%2B1.21.1.jar)
 
 - `Navas ZA Megas` (Zamega) - Version 1.5.3
   - Modification : <span style="color:red">Remplacer l'ancienne version (1.5) par 1.5.3</span>
