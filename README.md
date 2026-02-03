@@ -12,7 +12,33 @@ Les versions suivent le format : `vX.Y.Z`
 - **Z** : Version patch (corrections de bugs, ajustements)
 
 ---
+---
 
+## [v1.1.0] - 03-02-2026
+
+### 📋 Résumé
+
+Ajout d'une queue à distance pour les raids et correction du mod Zamega.
+
+#### ✨ Nouveaux mods
+- **Raid Den Queue** : file d'attente à distance pour les raids (évite les déplacements)
+
+#### 🔧 Corrections
+- **Zamega** : mise à jour en 1.5.3, le mod fonctionne à nouveau
+
+#### Mods (/mods)
+
+- `raid-den-queue` - Version 1.0.0
+  - Modification : <span style="color:lightgreen">Ajout dans le dossier</span>
+  - Description : Ajoute une queue à distance pour les raids (évite les déplacements)
+  - Lien : [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/blob/main/mods/raid-den-queue-1.0.0.jar)
+
+- `Navas ZA Megas` (Zamega) - Version 1.5.3
+  - Modification : <span style="color:red">Remplacer l'ancienne version (1.5) par 1.5.3</span>
+  - Description : Correction du mod qui ne fonctionnait pas
+  - Lien : [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/blob/main/mods/zamega-fabric-1.5.3.jar)
+
+---
 ---
 
 ## [v1.0.0] - 03-02-2026
@@ -195,6 +221,7 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
 
 | Version | Date | Description | Statut |
 |---------|------|-------------|--------|
+| v1.1.0 | 03/02/2026 | Queue à distance raids + correctif Zamega 1.5.3 | ✅ |
 | v1.0.0 | 03/02/2026 | Version initiale corrigée | ✅ |
 
 **Statuts** :
