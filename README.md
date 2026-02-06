@@ -81,12 +81,11 @@ Version initiale du modpack corrigé basé sur **Cobblemon Academy 2.0**.
 - `Abes-Hutts-Cobblemon` - Version 1.7.1-1.0.2
   - Modification : <span style="color:red">Supprimer l'ancienne version (a faire meme si le dossier mod est récupérer)</span>
   - Description : Correction du mod combat (Raid Dens)
-  - Lien : [Curseforge](https://github.com/Gwendal-Ferlin/CobblemonModpack/blob/main/mods/academy-mc1.21.1-v2.0.0%2Bbuild.514-fabric.jar)
-
+  - Lien : [Curseforge](https://www.curseforge.com/minecraft/mc-mods/abes-hutts-cobblemon)
 - `academy-mc1.21.1` - Version v2.0.0+build.514
   - Modification : <span style="color:red">Supprimer l'ancienne version</span>
   - Description : Correctif Safari
-  - Lien : [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/tree/main/mods)
+  - Lien : [Github](https://github.com/Gwendal-Ferlin/CobblemonModpack/blob/main/mods/academy-mc1.21.1-v2.0.0%2Bbuild.514-fabric.jar)
 
 - `Accessories` - Version 1.21.1-1.7.1-1.0.2
   - Modification : <span style="color:lightgreen">Ajout dans le dossier</span>
